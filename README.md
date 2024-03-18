@@ -9,6 +9,7 @@
  ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/6ad383f9-0dc5-4dcd-9e0e-2a173edbde54)
  
 “平均”傅里叶频谱流程图 
+
  ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/85a25bde-dc0d-4493-a570-76d0a68d88b0)
  
  “平均”小波频谱流程图
