@@ -7,8 +7,10 @@
  再对电子信号"opticalpower"数组进行频谱分析，分别使用傅里叶变换和小波变换。
  
  ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/6ad383f9-0dc5-4dcd-9e0e-2a173edbde54)
+ 
 “平均”傅里叶频谱流程图 
  ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/85a25bde-dc0d-4493-a570-76d0a68d88b0)
+ 
  “平均”小波频谱流程图
 发现不同簇内的信号，经过小波变换后每簇数据有明显差异性。
 再对聚类后呼吸、心率、体动三种生命特征进行基础的数值分析，分析各簇平均值、方差和分布。
@@ -26,7 +28,9 @@
 ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/a977f887-b430-40b1-a0b2-db7c0f2cf71d)
 
 基于第一问的结论，再对心率和体动进行相同的建模，发现Random Forest对于心率和呼吸模型的性能表现最优，但是对于体动预测，性能低。
+
 ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/fd66d01f-4d22-49a7-acef-3952933f7d36)
+
 ![image](https://github.com/weisuojiushiwd/SUES-14th-Mathematical-Modeling-B-type/assets/121271836/95c2a8f5-748b-4a14-849d-f491fa6187d2)
 
 这里作者添加了一个
